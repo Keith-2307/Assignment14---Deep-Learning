@@ -1,0 +1,13 @@
+Evaluating the performance of each model
+Using the testing data to evaluate each model and compare the performance:
+
+CONCLUSIONS
+----------------------------
+Which model has a lower loss?
+Answer:The LSTM Stock Predictor Closing model has the lower loss which was determined from running windows 1-10.
+----------------------------
+Which model tracks the actual values better over time?
+Answer:The LSTM Stock Predictor Closing model tracks the actual values better over time.
+----------------------------
+Which window size works best for the model?
+Answer:The window size that works better is 3.
